@@ -68,3 +68,12 @@
 @@||m.erabaru.net^$ctag=user_regular
 @@||renieule.deviantart.com^$ctag=user_regular
 ||vpnproxy.site^$ctag=user_regular
+@@||adf.ly^$important
+@@||www.adf.ly^$important
+@@||bit.ly^$important
+@@||www.bit.ly^$important
+@@||goo.gl^$important
+@@||ow.ly^$important
+@@||www.ow.ly^$important
+@@||amzn.to^$important
+@@||amzn.com^$important
