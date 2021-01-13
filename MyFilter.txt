@@ -77,3 +77,7 @@
 @@||www.ow.ly^$important
 @@||amzn.to^$important
 @@||amzn.com^$important
+||www.veilduck.app^$important
+||https://ynuf.aliapp.org/savewb.json?.lan^$important
+@@||rb.gy^$important
+@@||www.istockphoto.com^$important
