@@ -81,3 +81,4 @@
 ||https://ynuf.aliapp.org/savewb.json?.lan^$important
 @@||rb.gy^$important
 @@||www.istockphoto.com^$important
+@@||www.vice.com^$important
