@@ -82,3 +82,5 @@
 @@||rb.gy^$important
 @@||www.istockphoto.com^$important
 @@||www.vice.com^$important
+@@||ads-serve.brave.com^$important
+
