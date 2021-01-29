@@ -84,3 +84,4 @@
 @@||www.vice.com^$important
 @@||ads-serve.brave.com^$important
 @@||goodfon.com^$important
+@@||www.mangaupdates.com^
