@@ -94,3 +94,9 @@
 ||www.dp8.org^$important
 ||www.1010jz.com^$important
 ||www.nijianzhi.com^$important
+||www.qv67.com^$important
+||ttzapp.net^$important
+||www.diyixianbao.com^$important
+||www.pianmenshengyiw.com^$important
+||www.laopm.com^$important
+||gog-global.kingsgroupgames.com^$important
