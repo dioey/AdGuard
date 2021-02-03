@@ -16,6 +16,7 @@
 @@||gofile.io^$client='Ryzen'
 ||www.cbigame.com^$ctag=user_regular
 @@||ads.google.com^$client='Pak Andri'
+@@||ads.google.com^$client='Pak Andri 2'
 ||www.luxury777perak.com^
 ||388heroslot.com^
 ||ratucapsa.group^
