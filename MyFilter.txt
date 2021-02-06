@@ -101,5 +101,4 @@
 ||www.pianmenshengyiw.com^$important
 ||www.laopm.com^$important
 ||gog-global.kingsgroupgames.com^$important
-@@||wmconvirus.narod.ru^
 
