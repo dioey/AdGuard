@@ -101,4 +101,9 @@
 ||www.pianmenshengyiw.com^$important
 ||www.laopm.com^$important
 ||gog-global.kingsgroupgames.com^$important
+||www.5w52.com^$important
+||www.xhzyw.com^$important
+||www.xianyuer.com^$important
+||www.jzqe.com^$important
+||www.niuwz.net^$important
 
