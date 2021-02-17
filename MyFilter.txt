@@ -107,3 +107,8 @@
 ||www.jzqe.com^$important
 ||www.niuwz.net^$important
 ||www.xiand88.com^$important
+||www.360shouzhuan.com^$important
+||www.aizhuanwu.com^$important
+||www.yiyangtn.com^$important
+||ag.mythink.store^$important
+@@||zfrmz.com^$important
