@@ -112,3 +112,5 @@
 ||www.yiyangtn.com^$important
 ||ag.mythink.store^$important
 @@||zfrmz.com^$important
+@@||www.comixology.com^$important
+@@||media.istockphoto.com^$important
