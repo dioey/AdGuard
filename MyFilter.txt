@@ -116,3 +116,7 @@
 @@||media.istockphoto.com^$important
 @@||istockphoto.com^$important
 @@||vice.com^
+||www.scxhszh.com^$important
+||www.goldxuan.com.lan^$important
+||www.goldxuan.com^$important
+||www.guajiba.com^$important
