@@ -114,3 +114,5 @@
 @@||zfrmz.com^$important
 @@||www.comixology.com^$important
 @@||media.istockphoto.com^$important
+@@||istockphoto.com^$important
+@@||vice.com^
