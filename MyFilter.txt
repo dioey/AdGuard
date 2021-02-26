@@ -153,3 +153,5 @@
 ||router.lan^$dnsrewrite=NOERROR;A;192.168.0.1
 ||router.lan^$dnsrewrite=NOERROR;A;10.5.50.1
 ||1008610010.laikanshu.top^$important
+||www.dazizhuanqian.net^$important
+||www.wzk6.com^$important
