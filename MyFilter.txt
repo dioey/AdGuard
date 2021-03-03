@@ -159,3 +159,4 @@
 ||wifi.apac1.nokia.com^$important
 ||blackberry-51bf^$important
 ||metok.intl.xiaomi.com^$important
+||douguatv.com^$important
