@@ -160,3 +160,4 @@
 ||blackberry-51bf^$important
 ||metok.intl.xiaomi.com^$important
 ||douguatv.com^$important
+||www.tvbobo.com^$important
