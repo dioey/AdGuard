@@ -161,3 +161,8 @@
 ||metok.intl.xiaomi.com^$important
 ||douguatv.com^$important
 ||www.tvbobo.com^$important
+||www.weiduoqun.com.lan^$important
+||www.weiduoqun.com^$important
+||www.pack16.com^$important
+||www.miaigo.com^$important
+||www.chihamo.com^$important
