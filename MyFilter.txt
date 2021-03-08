@@ -166,3 +166,4 @@
 ||www.pack16.com^$important
 ||www.miaigo.com^$important
 ||www.chihamo.com^$important
+||www.ymgj68.com^$important
