@@ -167,3 +167,9 @@
 ||www.miaigo.com^$important
 ||www.chihamo.com^$important
 ||www.ymgj68.com^$important
+||gamd850.net^$important
+||tvbobo.com^$important
+||191ysw.com.lan^$important
+||191ysw.com^$important
+||www.9527kk.com^$important
+||noob.xbzlapp.com^$important
