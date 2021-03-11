@@ -173,3 +173,9 @@
 ||191ysw.com^$important
 ||www.9527kk.com^$important
 ||noob.xbzlapp.com^$important
+||2021wz.cc^$important
+||www.fanke100.com^$important
+||www.83lou.com^$important
+||www.qqxingqiu.com^$important
+||www.163earn.com^$important
+@@/broadlink.*/$important
