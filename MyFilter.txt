@@ -179,3 +179,4 @@
 ||www.qqxingqiu.com^$important
 ||www.163earn.com^$important
 @@/broadlink.*/$important
+||ncm0^$important
