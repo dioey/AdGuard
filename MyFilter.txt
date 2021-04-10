@@ -156,7 +156,6 @@
 ||www.dazizhuanqian.net^$important
 ||www.wzk6.com^$important
 ||www.520hack.com^$important
-||wifi.apac1.nokia.com^$important
 ||blackberry-51bf^$important
 ||metok.intl.xiaomi.com^$important
 ||douguatv.com^$important
