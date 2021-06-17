@@ -1,7 +1,6 @@
 @@||thepiratebay.org^$client='Ryzen'
 @@||ipinfo.io^$client='Ryzen'
 @@||www.host-tracker.com^$client='Ryzen'
-||dns.google^
 ||google-public-dns-a.google.com^
 @@||geni.us^$ctag=user_regular
 @@||www.deviantart.com^$ctag=user_regular
@@ -356,6 +355,7 @@
 ||www.google.vu^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||www.google.ws^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||www.google.rs^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
+||dns.google^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||yandex.com^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
 ||yandex.ru^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
 ||yandex.ua^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
