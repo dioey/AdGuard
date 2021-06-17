@@ -30,7 +30,6 @@
 ||www.pianmenw.com^$ctag=user_regular
 ||www.chuwww.com^$ctag=user_regular
 @@||zoom.com.cn^
-||(/.cn/.ru)$important,ctag=user_regular
 ||www.1010jz.com^$ctag=user_regular
 ||www.53jianzhi.net^$ctag=user_regular
 ||https://ynuf.aliapp.org/savewb.json?^$ctag=user_regular
