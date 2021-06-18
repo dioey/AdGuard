@@ -369,3 +369,13 @@
 ||www.duckduckgo.com^$dnsrewrite=NOERROR;CNAME;safe.duckduckgo.com,ctag=user_regular
 ||start.duckduckgo.com^$dnsrewrite=NOERROR;CNAME;safe.duckduckgo.com,ctag=user_regular
 ||pixabay.com^$dnsrewrite=NOERROR;CNAME;safesearch.pixabay.com,ctag=user_regular
+||*.cn^$ctag=~user_admin
+||*.ru^$ctag=~user_admin
+||*.adult^$ctag=~user_admin
+||*.sex^$ctag=~user_admin
+||*.porn^$ctag=~user_admin
+||*.xxx^$ctag=~user_admin
+||*.webcam^$ctag=~user_admin
+||*.sexy^$ctag=~user_admin
+||*.tube^$ctag=~user_admin
+||*.cam^$ctag=~user_admin
