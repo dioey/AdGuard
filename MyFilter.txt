@@ -379,3 +379,4 @@
 ||*.sexy^$ctag=~user_admin
 ||*.tube^$ctag=~user_admin
 ||*.cam^$ctag=~user_admin
+||graph.instagram.com^$important
