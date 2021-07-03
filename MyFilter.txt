@@ -384,7 +384,7 @@
 /dns-query/
 /nokia.*/
 ||bittorrent.com^$ctag=user_regular
-@@||google.cn^$importaQnt
+@@||google.cn^$important
 ||amap.com^$important
 ||baidu.com^$important
 ||mandriva-art.org^$important
