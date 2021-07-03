@@ -380,3 +380,15 @@
 ||*.tube^$ctag=~user_admin
 ||*.cam^$ctag=~user_admin
 ||graph.instagram.com^$important
+@@||unms.com^
+/dns-query/
+/nokia.*/
+||bittorrent.com^$ctag=user_regular
+@@||google.cn^$importaQnt
+||amap.com^$important
+||baidu.com^$important
+||mandriva-art.org^$important
+||ijinshan.com^$important
+||9game.com^$important
+||9apps.com^$important
+||ucweb.co^$important
