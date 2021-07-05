@@ -356,6 +356,9 @@
 ||www.google.ws^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||www.google.rs^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||dns.google^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
+||dns.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
+||8888.google^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
+||dns64.dns.google^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||yandex.com^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
 ||yandex.ru^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
 ||yandex.ua^$dnsrewrite=NOERROR;A;213.180.193.56,ctag=user_regular
