@@ -155,7 +155,6 @@
 ||roblox.plus^$client='Aqila'
 ||innersloth.com^$client='Aqila'
 ||forum.fancykeyapp.com^$important
-@@||apac31.cdp.nokia.com^$important
 @@||brave.com^$important
 @@||clickserve.dartsearch.net^$important
 @@||ad.doubleclick.net^$important
@@ -165,7 +164,6 @@
 @@||ads-admin.bravesoftware.com^$important
 @@||ads.bravesoftware.com^$important
 @@||ads-admin.brave.software^$important
-||wifi.apac1.nokia.com^$important
 ||www.google.com^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||www.google.ad^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
 ||www.google.ae^$dnsrewrite=NOERROR;CNAME;forcesafesearch.google.com,ctag=user_regular
@@ -385,7 +383,6 @@
 ||graph.instagram.com^$important
 @@||unms.com^
 /dns-query/
-/nokia.*/
 ||bittorrent.com^$ctag=user_regular
 @@||google.cn^$important
 ||amap.com^$important
