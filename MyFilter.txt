@@ -149,11 +149,6 @@
 ||no2050.com^$important
 @@||sergeistrelec.ru^$important
 @@||www.briteccomputers.co.uk^$important
-||roblox.com^$client='Aqila'
-||rbxcdn.com^$client='Aqila'
-||rbxtrk.com^$client='Aqila'
-||roblox.plus^$client='Aqila'
-||innersloth.com^$client='Aqila'
 ||forum.fancykeyapp.com^$important
 @@||brave.com^$important
 @@||clickserve.dartsearch.net^$important
